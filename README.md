@@ -62,3 +62,15 @@ LeetCode problem statements and other content belong to their respective owners.
 ⭐ Feel free to explore the solutions and follow my progress.
 
 **Keep Learning. Keep Solving. Keep Improving.**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+<!---LeetCode Topics End-->
