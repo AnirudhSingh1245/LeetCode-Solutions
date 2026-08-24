@@ -73,4 +73,8 @@ LeetCode problem statements and other content belong to their respective owners.
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
