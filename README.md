@@ -80,6 +80,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0175-combine-two-tables](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
+| [1148-article-views-i](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
