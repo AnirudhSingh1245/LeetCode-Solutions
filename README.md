@@ -82,6 +82,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0182-duplicate-emails](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
