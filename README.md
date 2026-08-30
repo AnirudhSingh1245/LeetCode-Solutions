@@ -68,6 +68,7 @@ LeetCode problem statements and other content belong to their respective owners.
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -99,4 +100,24 @@ LeetCode problem statements and other content belong to their respective owners.
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
