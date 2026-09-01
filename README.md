@@ -68,6 +68,7 @@ LeetCode problem statements and other content belong to their respective owners.
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -111,6 +112,7 @@ LeetCode problem statements and other content belong to their respective owners.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -120,4 +122,8 @@ LeetCode problem statements and other content belong to their respective owners.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
