@@ -68,6 +68,7 @@ LeetCode problem statements and other content belong to their respective owners.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -107,6 +108,7 @@ LeetCode problem statements and other content belong to their respective owners.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
