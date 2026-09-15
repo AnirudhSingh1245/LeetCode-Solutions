@@ -69,6 +69,7 @@ LeetCode problem statements and other content belong to their respective owners.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -140,6 +141,7 @@ LeetCode problem statements and other content belong to their respective owners.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Math
