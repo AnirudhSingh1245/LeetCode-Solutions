@@ -149,6 +149,7 @@ LeetCode problem statements and other content belong to their respective owners.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -165,4 +166,12 @@ LeetCode problem statements and other content belong to their respective owners.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
