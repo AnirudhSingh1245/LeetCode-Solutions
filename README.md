@@ -114,6 +114,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0001-two-sum](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
@@ -127,6 +128,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0088-merge-sorted-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Counting
@@ -163,6 +165,7 @@ LeetCode problem statements and other content belong to their respective owners.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Trie
