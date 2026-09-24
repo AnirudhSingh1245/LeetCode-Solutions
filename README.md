@@ -168,6 +168,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0242-valid-anagram](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0709-to-lower-case](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 ## Trie
 |  |
 | ------- |
