@@ -76,6 +76,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -117,6 +118,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0217-contains-duplicate](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -131,6 +133,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0217-contains-duplicate](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -146,11 +149,13 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0075-sort-colors](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
