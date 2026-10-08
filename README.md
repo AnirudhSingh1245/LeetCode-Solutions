@@ -112,6 +112,7 @@ LeetCode problem statements and other content belong to their respective owners.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -154,6 +155,7 @@ LeetCode problem statements and other content belong to their respective owners.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -164,6 +166,7 @@ LeetCode problem statements and other content belong to their respective owners.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0242-valid-anagram) |
