@@ -162,6 +162,7 @@ LeetCode problem statements and other content belong to their respective owners.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
