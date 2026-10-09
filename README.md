@@ -75,6 +75,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0066-plus-one](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -181,6 +182,7 @@ LeetCode problem statements and other content belong to their respective owners.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0645-set-mismatch) |
