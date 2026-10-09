@@ -72,6 +72,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0014-longest-common-prefix](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -166,6 +167,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | ------- |
 | [0009-palindrome-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
