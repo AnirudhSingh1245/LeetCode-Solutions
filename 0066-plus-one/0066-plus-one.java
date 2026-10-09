@@ -9,7 +9,13 @@ class Solution {
             digits[i]=0;
         }
         int[] digitss=new int[digits.length+1];       
-        digitss[0]=1;
+        if(digits[0]<9){
+            digitss[0]++;
+        }
+        else{
+            digitss[0]=1;
+        }
         return digitss;
+
     }
 }
