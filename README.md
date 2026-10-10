@@ -49,6 +49,7 @@ Each solution contains the code submitted for the corresponding LeetCode problem
 * C
 * C++
 * Java
+* Sql
 * Python
 * JavaScript
 
