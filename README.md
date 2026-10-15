@@ -98,6 +98,7 @@ LeetCode problem statements and other content belong to their respective owners.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
