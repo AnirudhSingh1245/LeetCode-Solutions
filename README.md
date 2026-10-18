@@ -93,6 +93,7 @@ LeetCode problem statements and other content belong to their respective owners.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Database
 |  |
@@ -186,6 +187,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0013-roman-to-integer](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -235,4 +237,8 @@ LeetCode problem statements and other content belong to their respective owners.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
