@@ -116,6 +116,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0610-triangle-judgement](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
