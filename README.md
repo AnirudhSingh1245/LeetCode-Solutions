@@ -156,6 +156,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0414-third-maximum-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1859-sorting-the-sentence](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
@@ -208,6 +209,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0344-reverse-string](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [1859-sorting-the-sentence](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Trie
 |  |
 | ------- |
@@ -230,6 +232,7 @@ LeetCode problem statements and other content belong to their respective owners.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Counting Sort
 |  |
 | ------- |
