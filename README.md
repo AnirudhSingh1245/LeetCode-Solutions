@@ -90,6 +90,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
@@ -157,6 +158,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0645-set-mismatch](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -181,6 +183,7 @@ LeetCode problem statements and other content belong to their respective owners.
 | [0268-missing-number](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnirudhSingh1245/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
